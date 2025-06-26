@@ -51,7 +51,7 @@
 - 📱 Fully responsive layout
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abh930509&repo=lodgify&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abh930509&repo=Lodgify&theme=tokyonight" />
 </p>
 
 ---
